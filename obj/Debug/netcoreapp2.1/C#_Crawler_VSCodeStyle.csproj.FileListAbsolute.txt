@@ -1,0 +1,11 @@
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\obj\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.csprojAssemblyReference.cache
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\obj\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.csproj.CoreCompileInputs.cache
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\obj\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.AssemblyInfoInputs.cache
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\obj\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.AssemblyInfo.cs
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\bin\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.deps.json
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\bin\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.runtimeconfig.json
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\bin\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.runtimeconfig.dev.json
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\bin\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.dll
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\bin\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.pdb
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\obj\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.dll
+D:\TaiLieuHoc\HK6\E-Com Design\C#_Crawler_VSCodeStyle\obj\Debug\netcoreapp2.1\C#_Crawler_VSCodeStyle.pdb
