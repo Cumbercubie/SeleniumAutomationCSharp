@@ -7,10 +7,10 @@
   -Install Visual Studio Code.
   -Install the .NET Core SDK.
   
- *2.Extensions*
+ *2. Extensions*
   - NuGet Package Manager
  
- *3.Instructrion*
+ *3. Instructrion*
   - After installing NuGet, press ```Ctrl+Shift+P``` to open command. Type
       > Nuget Package Manager: Add Package
   - Find Selenium > Hit Enter > Choose Selenium.WebDriver > Choose Version ```3.141.0```.
@@ -24,5 +24,5 @@
 |         |─── chromedriver.exe<br/>
 └───obj<br/>
     └───Debug<br/>
-        └───netcoreapp2.1<br/>
+        └───netcoreapp2.1
  </code><pre>
