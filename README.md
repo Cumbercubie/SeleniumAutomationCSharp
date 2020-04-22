@@ -17,11 +17,12 @@
   - Find Selenium > Hit Enter > Choose Selenium.ChromeDriver > Choose Newest Version ```81.0..```.
  
  You should see the chromedriver.exe in your folder. Your folder may look like this: 
- ├───bin
-│   └───Debug
-│       └───netcoreapp2.1
-|           |─── chromedriver.exe
-└───obj
-    └───Debug
-        └───netcoreapp2.1
+ 
+├───bin<br/>
+│   └───Debug<br/>
+│       └───netcoreapp2.1\n<br/>
+|      |─── chromedriver.exe<br/>
+└───obj<br/>
+    └───Debug<br/>
+        └───netcoreapp2.1<br/>
  
