@@ -18,11 +18,11 @@
  
  You should see the chromedriver.exe in your folder. Your folder may look like this: 
  
-├───bin<br/>
+<pre><code>├───bin<br/>
 │     └───Debug<br/>
 │       └───netcoreapp2.1<br/>
-|      |─── chromedriver.exe<br/>
+|         |─── chromedriver.exe<br/>
 └───obj<br/>
     └───Debug<br/>
         └───netcoreapp2.1<br/>
- 
+ </code><pre>
