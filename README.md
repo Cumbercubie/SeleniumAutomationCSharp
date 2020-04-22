@@ -6,6 +6,7 @@
 *1. Prerequisite<sup>[1]</sup>*
 
   -Install Visual Studio Code.
+ 
   -Install the .NET Core SDK.
   
  *2. Extensions*
