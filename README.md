@@ -19,8 +19,8 @@
  You should see the chromedriver.exe in your folder. Your folder may look like this: 
  
 ├───bin<br/>
-│   └───Debug<br/>
-│       └───netcoreapp2.1\n<br/>
+│     └───Debug<br/>
+│       └───netcoreapp2.1<br/>
 |      |─── chromedriver.exe<br/>
 └───obj<br/>
     └───Debug<br/>
